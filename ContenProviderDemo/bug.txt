@@ -1,0 +1,2 @@
+新建hotfix/version-rules 分支
+修复bug1
